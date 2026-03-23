@@ -20,7 +20,7 @@ Intl                    Date formatting and localization
 ## 📱 App Screenshots
 
 <p align="center">
-  <img src="screenshots/login.png" width="250" title="Fingerprint Login">
   <img src="screenshots/home.png" width="250" title="Task List">
+  <img src="screenshots/login.png" width="250" title="Fingerprint Login">
   <img src="screenshots/add_task.png" width="250" title="Add Task">
 </p>
